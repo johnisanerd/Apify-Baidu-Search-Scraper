@@ -1,4 +1,4 @@
-https://apify.com/johnvc/apifybaidu?fpr=9n7kx3
+[https://apify.com/johnvc/baidu-search-scraper](https://apify.com/johnvc/baidu-search-scraper?fpr=9n7kx3)
 
 # 🚀 Baidu Search Scraper 🇨🇳
 
