@@ -205,4 +205,4 @@ Search for "machine learning" on desktop with Chinese localization, time period 
 [**Made with ❤️**](https://apify.com/johnvc?fpr=9n7kx3)
 
 *Transform your search automation with the most reliable and efficient Baidu search scraper on the market.*
-Last Updated: 2026.01.23
+Last Updated: 2026.01.26
