@@ -313,4 +313,10 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Baidu API to power your search and SEO workflows with reliable, structured results.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store.
+
+- [Export Baidu Search Results to CSV](https://apify.com/johnvc/baidu-search-scraper/examples/export-baidu-search-results-to-csv?fpr=9n7kx3)
+
 Last Updated: 2026.06.15
