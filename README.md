@@ -319,4 +319,4 @@ Ready-to-run examples on the Apify Store.
 
 - [Export Baidu Search Results to CSV](https://apify.com/johnvc/baidu-search-scraper/examples/export-baidu-search-results-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.06.21
+Last Updated: 2026.06.24
