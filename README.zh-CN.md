@@ -268,7 +268,7 @@ Claude Code MCP 文档：https://code.claude.com/docs/en/mcp
 4. 或者，选择 **Add custom connector** 并粘贴完整 MCP URL `https://mcp.apify.com/?tools=actors,docs,johnvc/Baidu-Search-Scraper`，在出现提示时使用 OAuth。
 5. 请 Claude 运行百度 API。
 
-在网页上打开 Claude：https://claude.ai
+在网页上打开 Claude：https://claude.ai/referral/uIlpa7nPLg
 
 ## 在 Cursor 中安装
 
